@@ -3,7 +3,8 @@ Welcome to ATLIQ HARDWARE project!
 This project aims to analyse dataset of ATliq hardwares to provide meaningful insight. Our focus is on analysing market performance, Market target performnace.
 
 Key Files:
-Customer market performance: 
+Customer market performance:
+
 Market performance vs Target:
 
 Why This Project?
