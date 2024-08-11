@@ -8,9 +8,11 @@ Key Files:
 
 >>  Market performance vs Target:
 
->> PROFIT AND LOSS  by Year report:
+>> PROFIT AND LOSS  by fiscal year(P&L by Year):
 
+>> PROFOT AND LOSS by fiscal quater(P&L by quater):
 
 Why This Project?
+
 In today’s competitive market, having robust tools and insights can make all the difference. ATliq Hardware data project is designed to explain the value or impact, such as optimizing sales strategies, improving customer engagement]. 
 Explore the repository to get started, and feel free to contribute or provide feedback!
