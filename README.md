@@ -4,9 +4,12 @@ This project aims to analyse dataset of ATliq hardwares to provide meaningful in
 
 Key Files:
 
-Customer market performance:
+>>  Customer market performance:
 
-Market performance vs Target:
+>>  Market performance vs Target:
+
+>> PROFIT AND LOSS  by Year report:
+
 
 Why This Project?
 In today’s competitive market, having robust tools and insights can make all the difference. ATliq Hardware data project is designed to explain the value or impact, such as optimizing sales strategies, improving customer engagement]. 
