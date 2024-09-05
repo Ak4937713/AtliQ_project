@@ -3,13 +3,13 @@ Welcome to ATLIQ HARDWARE project!
 This project aims to analyse dataset of ATliq hardwares to provide meaningful insight. Our focus is on analysing market performance, Market target performnace.
 
 Key Files:
-## Sales Analytics: 
-#  Customer market performance: 
-#  Market performance vs Target: 
+# Sales Analytics: 
+##  Customer market performance.
+##  Market performance vs Target.
 
-## Finance Analytics:
-# PROFIT AND LOSS  by fiscal year(P&L by Year):
-# PROFOT AND LOSS by fiscal quater(P&L by quater):
+# Finance Analytics:
+## PROFIT AND LOSS  by fiscal year(P&L by Year)
+## PROFOT AND LOSS by fiscal quater(P&L by quater)
 
 Why This Project?
 
